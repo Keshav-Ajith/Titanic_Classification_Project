@@ -13,7 +13,7 @@ However, before actually starting making the model, this dataset had to be prepr
   * The data is then split into features (X) and the target variable (y), which is 'Survived'
   * The data is then divided into training and testing sets to evaluate the models
 
-The training data is used to trauin these models:
+The training data is used to train these models:
   * Logistic Regression: Logistic regression is a supervised machine learning algorithm primarily used for binary classification problems, where the goal is to predict the probability of a data point belonging to one of two categories.
   * Decision Trees: A decision tree classifier is a supervised machine learning algorithm used primarily for classification tasks. It models decisions and their possible consequences in a hierarchical, tree-like structure, similar to a flowchart.
   * Random Forest: A random forest classifier is an ensemble machine learning algorithm specifically designed for classification tasks. It operates by constructing a "forest" of multiple decision trees during training and outputting the class that is the mode of the classes predicted by individual trees.
